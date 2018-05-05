@@ -6,3 +6,5 @@
 /logs/
 .DS_Store
 Thumbs.db
+/.idea/
+/megamek/megamek.iml
